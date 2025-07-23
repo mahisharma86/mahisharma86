@@ -17,8 +17,8 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="Atta" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mahi-sharma-050724276" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mahi-sharma-050724276/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahisharma" height="30" width="40" />
   </a>
 
 ---
