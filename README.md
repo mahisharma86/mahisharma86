@@ -26,19 +26,19 @@
 ### LEETCODE PROFILES
 
 <p align="left">
-  <a href="Your Leetcode Profile URL" target="_blank">
+  <a href="https://leetcode.com/u/mahi_sharma08/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mahi_sharma08/" height="30" width="40" />
     <br></br>
   </a>
-  <a href="Your Leetcode Profile URL/" target="_blank">
-    <img src="https://img.shields.io/badge/https://leetcode.com/u/mahi_sharma08/orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
+  <a href="https://leetcode.com/u/mahi_sharma08/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-mahi_sharma08-orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
     
   </a>
 </p>
 
 <div align="center">
-  <a href="Your Leetcode Profile URL" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/mahi_sharma08/?theme=dark" alt="Mahi Sharma LeetCode Stats" />
+  <a href="https://leetcode.com/u/mahi_sharma08/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/mahi_sharma08?theme=dark" alt="Mahi Sharma LeetCode Stats" />
   </a>
 </div>
 
