@@ -1,5 +1,5 @@
 <div align="center">
- <img src="------------------" alt="Mahi Sharma" width="100%" />
+ <img src="https://github.com/mahisharma86/mahisharma86/blob/a45c8e7cdf78005d7a8652c8acdd35a504559698/WhatsApp%20Image%202025-07-23%20at%201.03.50%20PM.jpeg" alt="Mahi Sharma" width="100%" />
 </div>
 
 <h1 align="center">Hello Everyone👋, I'm Mahi Sharma </h1>
@@ -18,7 +18,7 @@
 ### Connect with me:
 <p align="left">
   <a href="Atta" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="----------------" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahi-sharma-050724276" height="30" width="40" />
   </a>
 
 ---
@@ -27,18 +27,18 @@
 
 <p align="left">
   <a href="Your Leetcode Profile URL" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="--------------" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mahi_sharma08/" height="30" width="40" />
     <br></br>
   </a>
   <a href="Your Leetcode Profile URL/" target="_blank">
-    <img src="https://img.shields.io/badge/------------------------------orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
+    <img src="https://img.shields.io/badge/https://leetcode.com/u/mahi_sharma08/orange?style=flat-square&logo=leetcode" alt="LeetCode Badge" />
     
   </a>
 </p>
 
 <div align="center">
   <a href="Your Leetcode Profile URL" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/---------------------------?theme=dark" alt="Mahi Sharma LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/mahi_sharma08/?theme=dark" alt="Mahi Sharma LeetCode Stats" />
   </a>
 </div>
 
@@ -50,6 +50,10 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html/html-original-wordmark.svg" alt="html" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original-wordmark.svg" alt="css" width="50" height="50"/>
 </div>
 
 ---
+
